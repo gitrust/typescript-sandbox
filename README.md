@@ -62,7 +62,7 @@ This list contains some text excerpts and type script keywords which I found imp
 - Generic classes are only generic over their instance side
 - Putting constraints on generic types (keyof)
 - Enums are real objects that exist at runtime
-- Ambient enums
+- Ambient enums (describe shape of already existing enum types)
 - Type compatibility (structural typing)
 - Type compatibility: only members of target type are considered when checking for compat.
 - Modules are executed in their own scope, not in the global scope

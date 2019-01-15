@@ -52,6 +52,7 @@ This list contains some text excerpts and type script keywords which I found imp
 - Accessors (getters,setters)
 - Class static properties
 - Contextual Typing
+- Arrow functions  => (lambdas)
 - Arrow functions capture the *this* where the function is created
 - Arrow functions don't capture *this*, they use it from its enclosing environment
 - Arrow functions cannot be used as constructors

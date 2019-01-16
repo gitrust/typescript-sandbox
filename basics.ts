@@ -94,4 +94,5 @@ let u: symbol ;
 let ss: any = "Hello";
 let ssa: string = (ss as string);
 
-
+let i: any = "111";
+let mynumber: number = <number> i;

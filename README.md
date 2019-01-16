@@ -15,7 +15,7 @@ To compile a typescript into Javascript and run it with `node`.
 
 ## Typescript List
 
-This list contains some text excerpts and type script keywords which I found important when reading the type script documentation
+This list contains some text excerpts and typescript keywords which I found important when reading the type script documentation
 
 - https://www.typescriptlang.org/docs
 - Typescript is a superset of Javascript

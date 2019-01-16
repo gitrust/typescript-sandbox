@@ -11,6 +11,7 @@ break
 case
 catch
 class
+const
 debugger
 declare
 default
@@ -40,7 +41,8 @@ new
 object 
 of 
 package 
-private 
+private
+protected
 public
 readonly 
 require

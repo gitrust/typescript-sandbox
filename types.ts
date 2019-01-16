@@ -34,8 +34,16 @@ class Dog extends Animal {
 // Indexing
 interface Animals {
     [x: number]: Dog;
-    [x: string]: Animal;
+    [x: string]: Animal;        
 }
+
+class Hello {
+    public aPublicNumber: number;
+    protected aProtectedNumber: number;
+    private aPrivateNumber:number;
+    aNumber: number;
+}
+
 
 let animals: Animals;
 animals[1] = new Dog();

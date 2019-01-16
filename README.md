@@ -52,6 +52,7 @@ This list contains some text excerpts and typescript keywords which I found impo
 - Accessors (getters,setters)
 - Class static properties
 - Contextual Typing
+- Arrow functions  => (lambdas)
 - Arrow functions capture the *this* where the function is created
 - Arrow functions don't capture *this*, they use it from its enclosing environment
 - Arrow functions cannot be used as constructors
@@ -61,7 +62,7 @@ This list contains some text excerpts and typescript keywords which I found impo
 - Generic classes are only generic over their instance side
 - Putting constraints on generic types (keyof)
 - Enums are real objects that exist at runtime
-- Ambient enums
+- Ambient enums (describe shape of already existing enum types)
 - Type compatibility (structural typing)
 - Type compatibility: only members of target type are considered when checking for compat.
 - Modules are executed in their own scope, not in the global scope
